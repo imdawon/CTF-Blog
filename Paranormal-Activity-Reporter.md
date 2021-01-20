@@ -25,4 +25,4 @@ Using a unique email address, entering a password, and clicking "Sign Up" is all
 But what if a malicious person wanted info about an **exisiting** user?
 
 ![SignUpBug](parsignupbug.JPG)
-Lucky for them, we somehow package the entire user object and send it back in the error response.
+* Lucky for them, we somehow package the entire user object and send it back in the error response.
