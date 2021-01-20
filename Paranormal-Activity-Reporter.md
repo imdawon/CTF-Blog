@@ -17,10 +17,12 @@ Other than that, the app was developed to meet a deadline, and security wasn't e
 ### Painful Sign Up Bug
 
 ![PAR SignUp](par2.jpg)\
-*Upon entering the site, you are greeted by the sign up page.*
+*Upon entering the site, you are greeted by the sign up page.*\\
+
 
 Using a unique email address, entering a password, and clicking "Sign Up" is all it takes to get in!\
-But what if a malicious person wanted info about an **exisiting** user?\
+But what if a malicious person wanted info about an **exisiting** user?\\
+
 
 ![SignUpBug](parsignupbug.JPG)\
 *Lucky for them, we somehow package the entire user object and send it back in the error response.*
