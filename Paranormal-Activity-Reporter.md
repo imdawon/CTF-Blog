@@ -5,7 +5,7 @@ Created during my full stack bootcamp in early 2020.
 
 ## 0x01 - Site Anatomy
 * Forum application
-  * Ran on Express, Handlebars, MySQL
+ * Ran on Express, Handlebars, MySQL
 * Had user auth and session management
 * Had 8 different topics you could post under
 
@@ -16,7 +16,7 @@ Other than that, the app was developed to meet a deadline, and security wasn't e
 
 ### Painful Sign Up Bug
 
-![PAR SignUp](parsignup.jpg)
+![PAR SignUp](par2.jpg)
 * Upon entering the site, you are greeted by the sign up page.
 
 Using a unique email address, entering a password, and clicking "Sign Up" is all it takes to get in!
